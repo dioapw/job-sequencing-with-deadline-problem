@@ -63,12 +63,13 @@ function penjadwalan (pekerjaan slot[], int jumlahSlot)
 ## Kompleksitas Waktu
 - O(n<sup>2</sup>)
 
+<br/>
 
 ## Video Penjelasan
 [![](http://img.youtube.com/vi/zPtI8q9gvX8/0.jpg)](http://www.youtube.com/watch?v=zPtI8q9gvX8 "Job Sequencing with Deadlines - Greedy Method")
 
 
-
+<br/>
 
 ## Referensi
 - https://www.geeksforgeeks.org/job-sequencing-problem/
