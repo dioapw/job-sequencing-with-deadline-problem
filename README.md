@@ -23,7 +23,7 @@ Andaikan mesin mulai bekerja jam 6.00 pagi , maka itu artinya:
 ![image](https://user-images.githubusercontent.com/55073908/111078471-24f2a580-8528-11eb-9b58-b4547530508c.png)
 
 
-
+<br/>
 
 ## Strategi Penyelesaian
 1) Sorting pekerjaan berdasarkan nilai profit secara descending.
@@ -35,6 +35,7 @@ Andaikan mesin mulai bekerja jam 6.00 pagi , maka itu artinya:
 7) jika ada, maka masukkan pekerjaan kedalam slot dan tutup slot yang digunakan itu.
 8) jika tidak ada maka perkerjaan tidak dilakukan.
 
+<br/>
 
 ## Pseudocode
 ```
@@ -58,7 +59,7 @@ function penjadwalan (pekerjaan slot[], int jumlahSlot)
    }
 }
 ```
-
+<br/>
 
 ## Kompleksitas Waktu
 - O(n<sup>2</sup>)
