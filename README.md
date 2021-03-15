@@ -5,7 +5,7 @@ Algorithm Series: Job Sequencing With Deadline Problem - Greedy Method
 
 - Ada n buah pekerjaan yang akan dikerjakan oleh sebuah mesin
 - Tiap pekerjaan diproses oleh mesin selama 1 satuan waktu dan tenggat waktu ( deadline ) 
-<br/> pengerjaan setiap pekerjaan i adalah d<sub>i</sub> >= 0.
+<br/> pengerjaan setiap pekerjaan i adalah d<sub>i</sub> > 0.
 - Pekerjaan i akan memberikan keuntungan sebesar p subscript i jika dan hanya jika pekerjaan tersebut diselesaikan tidak melebihi tenggat waktunya
 - Bagaimana memilih perkerjaan-pekerjaan yang akan dikerjakan oleh mesin sehingga keuntungan yang diperoleh dari pengerjaan itu maksimum?
 Contoh:
