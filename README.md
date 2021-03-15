@@ -27,7 +27,7 @@ Andaikan mesin mulai bekerja jam 6.00 pagi , maka itu artinya:
 
 ## Strategi Penyelesaian
 1) Sorting pekerjaan berdasarkan nilai profit secara descending.
-2) total perkerjaan yang tersedia menjadi total slot tersedia karena setiap perkerjaan adalah 1 unit waktu.
+2) deadline menjadi total slot tersedia karena setiap perkerjaan adalah 1 unit waktu.
 3) lakukan iterasi untuk setiap perkerjaan dari pekerjaan pertama dan bandingkan nilai deadline dengan slot waktu yang tersedia.
 4) jika dealine lebih besar dari slot waktu maka perkerjaan tidak diambil.
 5) jika dealine lebih kecil sama dengan dari slot waktu dan slot tersedia maka, masukkan pekerjaan kedalam slot sesuai waktu deadlinenya dan tutup slot yang digunakan itu.
